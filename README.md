@@ -143,3 +143,5 @@ with first_activity as (
 	from absolue_matrix
 	order by Cohort_Month
 ```
+## Data Source
+The dataset used for this portfolio is the [Global Electronics Retailer](https://app.mavenanalytics.io/datasets?tag=Retail) provided by Maven Analytics.
